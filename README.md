@@ -17,10 +17,16 @@ Studi kasus yang digunakan adalah **Sistem Katalog Toko Komputer/PC**, yang meng
 # Struktur File
 
 ```text
+# Struktur File
+
+```text
 TP3DPBO2526C2/
 ├── CPP/
 │   ├── Dokumentasi/
-│   │   └── cpp.png
+│   │   ├── Sebelum1.png
+│   │   ├── Sebelum2.png
+│   │   ├── Sesudah1.png
+│   │   └── Sesudah2.png
 │   └── Program/
 │       ├── Produk.cpp
 │       ├── Processor.cpp
@@ -34,9 +40,30 @@ TP3DPBO2526C2/
 │       ├── Toko.cpp
 │       └── main.cpp
 │
+├── Java/
+│   ├── Dokumentasi/
+│   │   ├── Sebelum1.png
+│   │   ├── Sebelum2.png
+│   │   ├── Sesudah1.png
+│   │   └── Sesudah2.png
+│   └── Program/
+│       ├── Produk.java
+│       ├── Processor.java
+│       ├── Intel.java
+│       ├── AMD.java
+│       ├── GraphicCard.java
+│       ├── Nvidia.java
+│       ├── GcAmd.java
+│       ├── Storage.java
+│       ├── RAM.java
+│       ├── Toko.java
+│       └── Main.java
+│
 ├── Python/
 │   ├── Dokumentasi/
-│   │   └── python.png
+│   │   ├── SebelumPenambahan.png
+│   │   ├── SesudahPenambahan1.png
+│   │   └── SesudahPenambahan2.png
 │   └── Program/
 │       ├── Produk.py
 │       ├── Processor.py
@@ -262,4 +289,20 @@ Dokumentasi di atas menunjukkan hasil implementasi program menggunakan bahasa Py
     <img src="CPP/Dokumentasi/Sesudah2.png" alt="Dokumentasi Python" style="width: 100%;">
 </div>
 
-Dokumentasi di atas menunjukkan hasil implementasi program menggunakan bahasa CPP.
+Dokumentasi di atas menunjukkan hasil implementasi program menggunakan bahasa C++.
+
+### Java
+<div align="center">
+    <img src="Java/Dokumentasi/Sebelum1.png" alt="Dokumentasi Python" style="width: 100%;">
+</div>
+<div align="center">
+    <img src="Java/Dokumentasi/Sebelum2.png" alt="Dokumentasi Python" style="width: 100%;">
+</div>
+<div align="center">
+    <img src="Java/Dokumentasi/Sesudah1.png" alt="Dokumentasi Python" style="width: 100%;">
+</div>
+<div align="center">
+    <img src="Java/Dokumentasi/Sesudah2.png" alt="Dokumentasi Python" style="width: 100%;">
+</div>
+
+Dokumentasi di atas menunjukkan hasil implementasi program menggunakan bahasa Java.
