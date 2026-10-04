@@ -17,9 +17,6 @@ Studi kasus yang digunakan adalah **Sistem Katalog Toko Komputer/PC**, yang meng
 # Struktur File
 
 ```text
-# Struktur File
-
-```text
 TP3DPBO2526C2/
 ├── CPP/
 │   ├── Dokumentasi/
